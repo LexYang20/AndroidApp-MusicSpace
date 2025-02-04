@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "710522456103",
+    "firebase_url": "https://musicspace-d2413-default-rtdb.firebaseio.com",
+    "project_id": "musicspace-d2413",
+    "storage_bucket": "musicspace-d2413.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710522456103:android:0f03920ecdcf7a60906602",
+        "android_client_info": {
+          "package_name": "com.example.musicspace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQG8Zl_jjYk3EtDSmfkG_SAQb9IhF6RNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
